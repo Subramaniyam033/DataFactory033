@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "datafactor033"
+		},
+		"AzureSynapseAnalytics1_connectionString": {
+			"value": ""
+		},
+		"Datalake033_accountKey": {
+			"value": ""
+		},
+		"Datalake033_properties_typeProperties_url": {
+			"value": "https://datalake003.dfs.core.windows.net/"
+		}
+	}
+}
